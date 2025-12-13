@@ -13,22 +13,6 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 
----
-
-
-**Practical software** • **Clear UI** • **Maintainable architecture**
-
-</div>
-
-## Tech Stack
-```text
-Languages:     C++ • Modern C++ • Python
-Desktop:       Qt 6 (Widgets/QML) • Windows-native • Cross-platform
-AI/ML:         llama.cpp • CUDA • Local LLM inference
-Tools:         CMake • Git • GitHub Actions • REST APIs
-Architecture:  MVC • MVVM • Clean Architecture
-```
-
 <div align="center">
 
 </div>
